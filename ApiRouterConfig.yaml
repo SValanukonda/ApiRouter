@@ -1,5 +1,6 @@
 app :
   name : "ApiRouter"
   version: "0.0v"
+  homepath: "./ApiRouter"
 configs :
   RouteRulesConfig:"./RouteRules.yaml"
